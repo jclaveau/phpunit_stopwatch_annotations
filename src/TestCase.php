@@ -21,16 +21,6 @@ class TestCase extends PHPUnit_Framework_TestCase
     protected $stopwatch;
 
     /**
-     * @param Stopwatch $stopwatch
-     * @return $this
-     */
-    public function setStopwatch($stopwatch)
-    {
-        $this->stopwatch = $stopwatch;
-        return $this;
-    }
-
-    /**
      * @return void
      */
     protected function initStopWatch()
