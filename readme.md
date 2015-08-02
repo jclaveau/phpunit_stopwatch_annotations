@@ -8,7 +8,7 @@ It uses [symfony/Stopwatch](https://github.com/symfony/Stopwatch) component for 
 Via [Composer](https://getcomposer.org/)
 
 ```bash 
-	composer require --dev usernam3/phpunit_stopwatch_annotations
+	composer require --dev "usernam3/phpunit_stopwatch_annotations:dev-master"
 ```
 
 ## Usage
